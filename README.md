@@ -28,7 +28,7 @@ Built in public, one commit a day.
 | **App** | FastAPI backend (retriever loaded once) + Angular 22 chat UI with citation chips and a "documents up to" freshness label |
 | **Cost control** | ~₹0.03 per answer, 10 questions per user per day |
 
-👉 [**epf-mitra**](https://github.com/kovarthanan/epf-mitra) · Live demo: *coming soon*
+👉 [**epf-mitra**](https://github.com/kovarthanan/epf-mitra) · [Live demo](https://epf.kovarthanan.tech/)
 
 ---
 
@@ -67,7 +67,7 @@ Lessons I apply: test with trap questions, treat adding data as a possible regre
 
 ## 🎯 Current Focus
 
-- Shipping **EPF Mitra** end to end: evaluation set, RAGAS baseline, public deployment
+- Growing **EPF Mitra** (now live): evaluation set, RAGAS baseline
 - Moving RAG workloads to **Azure OpenAI and Azure AI Search**
 - Deeper work on **agent workflows** (LangGraph) and **evaluation and observability**
 
